@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.god.buisnessapp.MainActivity">
+
+
+    <ImageView
+        android:src="@drawable/zest"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GOYAL MOTORS - TATA CAR DEALER"
+            android:padding="6dp"
+            android:textColor="@android:color/black"
+            android:textAlignment="center"
+            android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADDRESS:-  Near Hotel Iqbal Inn, NH-64,, Tej Bagh Colony, Patiala, Punjab ,147001 "
+        android:padding="6dp"
+        android:textSize="15sp"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:textSize="15sp"
+        android:text="TIMINGS; 9:30 AM TO 8 PM"
+        android:fontFamily="sans-serif" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MOBILE - 09501736817"
+        android:paddingLeft="6dp"
+        android:textSize="15sp"
+        android:paddingTop="3dp"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="WEBSITE:- www.goyalmotors.in"
+        android:paddingLeft="6dp"
+        android:paddingTop="3dp"
+        android:fontFamily="sans-serif" />
+
+</LinearLayout>
