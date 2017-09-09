@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CricQuiz</string>
+    <string name="question1">1. How many players in a cricket team?</string>
+    <string name="question2">2. What is the length of cricket pitch?</string>
+    <string name="question3">3. What is the weight of leather bowl?</string>
+    <string name="question4">4. How many players play cricket match from each team?</string>
+    <string name="question5">5. What is the color of bowl which is used in test matches?</string>
+    <string name="question6">6. In which year cricket was born?</string>
+</resources>
