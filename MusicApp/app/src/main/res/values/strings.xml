@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="category_album">albums</string>
+    <string name="category_artists">artists</string>
+    <string name="category_genre">genres</string>
+    <string name="category_songs">songs</string>
+    <string name="category_NowPlaying">NowPlaying</string>
+    <string name="nowPlayingActivity">This is Now Playing Activity you have to go back in order to access the albums,artists,genre and songs</string>
+    <string name="AlbumActivity">This is Album Activity you have to go back in order to access the artists,genre and songs</string>
+    <string name="ArtistsActivity">This is Artists Activity you have to go back in order to access the albums,genre and songs</string>
+    <string name="genreActivity">This is genre Activity you have to go back in order to access the albums,artists and songs</string>
+    <string name="SongsActivity">This is Songs library Activity you have to go back in order to access the albums,artists and genre</string>
+</resources>
