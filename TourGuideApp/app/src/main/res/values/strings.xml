@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel1_Heading">hotel godwin</string>
+    <string name="hotel2_Heading">hotel jiwan plaza</string>
+    <string name="hotel1_Details">Opp Gandhi Lake, The Mall Patiala-India 147001</string>
+    <string name="hotel2_Details">Opposite Columbia Asia Hospital, Bhupindra Road 22No. Phatak Patiala</string>
+    <string name="restaurant1_Heading">Shah ji restaurant</string>
+    <string name="restaurant2_Heading">Red dragon restaurant</string>
+    <string name="restaurant1_Details">Sco-5, Bhupinder Road, Patiala - 147001, Near 22 Railway Phatak, City Center Market</string>
+    <string name="restaurant2_Details">Shop Number 33 Akal Complex, Patiala - 147001, Opposite Jaggi Motors </string>
+    <string name="attraction_Heading">Omaxe Mall</string>
+    <string name="attraction_Details">Mall Road, Opp Kali Devi Temple, Patiala, Punjab 147001</string>
+    <string name="temple_heading">Kali Mata Temple</string>
+    <string name="temple_details">Manjit Nagar, Sidhu Colony, Patiala, Punjab 147001</string>
+    <string name="gurudwara_Heading">Shri Dhuk niwaran sahib</string>
+    <string name="gurudwara_Details"> State Highway 8, Upkar Nagar, Patiala, Punjab 147001</string>
+    <string name="Tab1">Hotels</string>
+    <string name="Tab2">Restaurants</string>
+    <string name="Tab3">Religious Places</string>
+    <string name="Tab4">Attractions</string>
+</resources>
