@@ -1,0 +1,7 @@
+#Tue Mar 21 22:01:53 IST 2017
+base.0=C\:\\Users\\GOD\\AndroidStudioProjects\\TourGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e3c8ea48088574f8d4cd6b697cf46c17291fb26
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\GOD\\AndroidStudioProjects\\TourGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9f15ca6dd653eee23f5695b96e2f7de2bd34b32\\classes.dex
+base.1=C\:\\Users\\GOD\\AndroidStudioProjects\\TourGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9f15ca6dd653eee23f5695b96e2f7de2bd34b32
+file.0=C\:\\Users\\GOD\\AndroidStudioProjects\\TourGuide\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e3c8ea48088574f8d4cd6b697cf46c17291fb26\\classes.dex

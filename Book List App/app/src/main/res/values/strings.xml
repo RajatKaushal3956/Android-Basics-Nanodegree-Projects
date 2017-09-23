@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="Result_not_found">No Results Found</string>
+    <string name="enter_search">Please Enter keyword So that we can find it</string>
+    <string name="searchbox">Enter the text to search the books</string>
+    <string name="search">Search</string>
+</resources>
