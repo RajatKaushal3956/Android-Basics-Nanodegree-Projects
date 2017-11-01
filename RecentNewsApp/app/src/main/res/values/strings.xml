@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecentNews App</string>
+    <string name="no_internet">Please check your internet connection</string>
+</resources>
